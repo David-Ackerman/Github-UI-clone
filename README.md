@@ -1,12 +1,8 @@
 <h1 align="center">
-<br>
-  <img src="YOUR_LOGO_URL" alt="YOUR_PROJECT_NAME" width="120">
-<br>
-<br>
-Github Clone
+  Github Clone
 </h1>
 
-<p align="center">An clone application of github, created using React</p>
+<p align="center">Clone application of github, created using React</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
